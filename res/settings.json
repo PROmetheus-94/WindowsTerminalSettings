@@ -36,7 +36,7 @@
             {
                 "guid": "{a4bc02f5-281b-42df-8308-bfebfbef99fb}",
                 "name": "Python3",
-                "commandline": "python",
+                "commandline": "python -m IPython",
                 "hidden": false,
                 "colorScheme": "Monokai Vivid",
                 "icon" : "%userprofile%/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/python.webp",
