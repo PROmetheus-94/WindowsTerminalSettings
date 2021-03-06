@@ -29,9 +29,9 @@
                 "padding" : "0, 0, 0, 0",
                 "snapOnInput" : true,
                 "useAcrylic" : true,
-                "acrylicOpacity": 0.25,
+                "acrylicOpacity": 0.75,
                 "backgroundImage": "%userprofile%/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/window.jpg",
-                "backgroundImageOpacity": 0.5
+                "backgroundImageOpacity": 0.4
             },
             {
                 "guid": "{a4bc02f5-281b-42df-8308-bfebfbef99fb}",
@@ -47,9 +47,9 @@
                 "padding" : "0, 0, 0, 0",
                 "snapOnInput" : true,
                 "useAcrylic" : true,
-                "acrylicOpacity": 0.25,
+                "acrylicOpacity": 0.75,
                 "backgroundImage": "%userprofile%/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/python.jpg",
-                "backgroundImageOpacity": 0.5
+                "backgroundImageOpacity": 0.4
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
